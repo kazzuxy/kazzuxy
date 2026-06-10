@@ -29,9 +29,7 @@ I am a **Computer Systems student at Universitas Dinamika Bangsa (UNAMA)** who i
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-</td>
-<td width="50%" valign="top">
+
 
 ### 🌐 [Multi-Broker IoT and 3D Dashboard](https://github.com/Gslza/ESP32-3_MQTT_WEB)
 
