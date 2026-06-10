@@ -144,10 +144,10 @@ Robotics and Control
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazzuxy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="bass GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bass&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazzuxy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="kazzuxy GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazzuxy&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
 
-<img src="https://streak-stats.demolab.com?user=Gslza&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=kazzuxy&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
