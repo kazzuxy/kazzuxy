@@ -6,7 +6,7 @@
 
 I build intelligent systems that connect **software, and embedded hardware  **.
 
-[![GitHub followers](https://img.shields.io/github/followers/Gslza?style=for-the-badge&logo=github&label=Followers)](https://github.com/kazzuxy?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/kazzuxy?style=for-the-badge&logo=github&label=Followers)](https://github.com/kazzuxy?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=kazzuxy&style=for-the-badge&label=Profile+Views)](https://github.com/kazzuxy)
 [![Email](https://img.shields.io/badge/Email-kazzuxy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazzuxysatu@gmail.com)
 
