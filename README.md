@@ -89,16 +89,6 @@ An ESP32-based monitoring and control system accessible through a Telegram bot a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Artificial Intelligence, Data, and Computer Vision
-
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ### IoT, Embedded Systems, and Robotics
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -135,12 +125,6 @@ Networking                    Control and Robotics
 ## 🎯 Current Focus
 
 ```text
-Artificial Intelligence
-├── Computer Vision and OCR
-├── Machine Learning
-├── Intelligent Decision Systems
-└── AI Agent Architecture
-
 Embedded Systems and IoT
 ├── ESP32 and STM32
 ├── MQTT Multi-Broker Communication
@@ -160,8 +144,8 @@ Robotics and Control
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gslza&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Gusli Yanza's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gslza&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kazzuxy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="bass GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bass&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=Gslza&hide_border=true" alt="GitHub contribution streak" />
 
@@ -174,12 +158,8 @@ Robotics and Control
 - [x] Build foundational Arduino and ESP32 projects
 - [x] Create IoT monitoring and relay-control systems
 - [x] Integrate multiple MQTT brokers into one dashboard
-- [x] Develop a YOLO11 and OCR inference application
 - [x] Build a real-time Flask dashboard for Computer Vision
-- [ ] Improve model accuracy and OCR robustness
-- [ ] Integrate AI agents with physical IoT devices
-- [ ] Develop autonomous robotics and sensor-fusion systems
-- [ ] Deploy intelligent edge systems to Raspberry Pi or cloud infrastructure
+- [ ] Develop autonomous robotics and sensor-fusion system
 
 ---
 
@@ -187,8 +167,6 @@ Robotics and Control
 
 I am interested in collaborating on projects involving:
 
-- Artificial Intelligence and Machine Learning
-- Computer Vision, YOLO, and OCR
 - Internet of Things and Embedded Systems
 - Robotics and Intelligent Control
 - Computer Networking and Smart Automation
@@ -197,8 +175,8 @@ I am interested in collaborating on projects involving:
 
 ## 📫 Contact
 
-- **Email:** [gusliyanza02@gmail.com](mailto:gusliyanza02@gmail.com)
-- **GitHub:** [github.com/Gslza](https://github.com/Gslza)
+- **Email:** [kazzuxysatu@gmail.com](mailto:kazzuxysatu@gmail.com)
+- **GitHub:** [github.com/kazzuxy](https://github.com/kazzuxy)
 - **University:** [Universitas Dinamika Bangsa](https://unama.ac.id/)
 
 <div align="center">
