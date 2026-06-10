@@ -30,24 +30,6 @@ I am a **Computer Systems student at Universitas Dinamika Bangsa (UNAMA)** who i
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 👁️ [WEB Dev](https://github.com/kazzuxy/SMART_HOME-)
-
-A real-time Computer Vision system for bottle detection, label recognition, product matching, and sugar-level analysis.
-
-**Key features:**
-
-- YOLO11 object detection
-- EasyOCR multi-rotation recognition
-- Exact and fuzzy product matching
-- Background OCR processing
-- Flask real-time dashboard
-- MJPEG camera streaming and SSE updates
-- Automatic screenshots and CSV logging
-
-**Stack:** Python, YOLO11, EasyOCR, OpenCV, Flask, NumPy
-
 </td>
 <td width="50%" valign="top">
 
